@@ -1,5 +1,7 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### NAME: ADHITHYA PERUMAL D
+### REG.NO: 212222230007
+### DATE: 28.08.2025
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +28,10 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1919" height="1020" alt="Screenshot 2025-08-28 155236" src="https://github.com/user-attachments/assets/cb4e71d1-d011-451a-8e8d-e84181ebd8c8" />
+
+<img width="1919" height="1017" alt="Screenshot 2025-08-28 155205" src="https://github.com/user-attachments/assets/53323243-e573-4cf9-a45e-3334a464e699" />
+
 
 ### Result:
+Thus the experiment to create a project for Sentimental Analysis on Any Dataset a Using Rapidminer is completed successfully.
